@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gato08-react/static/css/main.9ffc720b.css",
+    "main.js": "/gato08-react/static/js/main.3cb366cf.js",
+    "index.html": "/gato08-react/index.html",
+    "main.9ffc720b.css.map": "/gato08-react/static/css/main.9ffc720b.css.map",
+    "main.3cb366cf.js.map": "/gato08-react/static/js/main.3cb366cf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ffc720b.css",
+    "static/js/main.3cb366cf.js"
+  ]
+}
